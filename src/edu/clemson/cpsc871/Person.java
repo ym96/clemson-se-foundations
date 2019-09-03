@@ -1,10 +1,8 @@
 package edu.clemson.cpsc871;
 
-/* Javadoc comment goes here describing succinctly what the class
-   does/represents.
-   Consult this for some ref material on writing proper Javadocs:
-   https://www.oracle.com/technetwork/java/javase/documentation/index-137868.html
-*/
+/**
+ * Here is a basic person class, it stores age, name, and gender.
+ */
 public class Person {
 
     enum GenderType {
