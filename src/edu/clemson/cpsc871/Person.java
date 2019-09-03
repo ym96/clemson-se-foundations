@@ -11,7 +11,7 @@ public class Person {
 
     private final GenderType g;
 
-    private final String name;
+    private  String name;
     private int age;
 
     public static Person createMalePerson(String name, int age) {
